@@ -7,6 +7,7 @@
 ## Setup Wifi (Local – SD card):
 
 - [wifi w/o ethernet](https://howchoo.com/g/ndy1zte2yjn/how-to-set-up-wifi-on-your-raspberry-pi-without-ethernet)
+- [Mobile Hotspot (iOS](https://www.techcoil.com/blog/how-to-connect-your-raspberry-pi-to-your-iphone-wifi-hotspot-via-raspbian-stretch-lite/)
 
 ## Connect with Github (Pi)
 
@@ -19,6 +20,10 @@
 
 ## VSCode remote editing (Pi & Local)
 
+Remote to Local:
 - [rmate](https://github.com/textmate/rmate)
 - [install ruby](https://www.raspberrypi.org/documentation/linux/software/ruby.md)
 - [vscode setup](https://ladvien.com/visual-studio-code-raspberry-pi/)
+
+Remote Web:
+*[wcode](https://github.com/fmsouza/wcode)
