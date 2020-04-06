@@ -33,6 +33,10 @@ With this setup, it is possible to `ssh` onto the raspberry pi using usb.
 
 - [install node & npm](https://www.instructables.com/id/Install-Nodejs-and-Npm-on-Raspberry-Pi/)
 
+## Install Python 3.7
+
+* [Install Python](https://gist.github.com/SeppPenner/6a5a30ebc8f79936fa136c524417761d)
+
 ## VSCode remote editing (Pi & Local)
 
 Remote to Local:
