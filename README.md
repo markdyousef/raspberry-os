@@ -24,7 +24,10 @@ With this setup, it is possible to `ssh` onto the raspberry pi using usb.
 * the first time you `ssh` onto pi the password is `raspberry`
 
 
-## Connect with Github (Pi)
+## Git
+- install git `sudo apt install git`
+
+### Connect with Github (Pi)
 
 - [generate ssh keys](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - add public key to github user
