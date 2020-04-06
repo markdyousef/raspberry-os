@@ -19,6 +19,11 @@ With this setup, it is possible to `ssh` onto the raspberry pi using usb.
 - [wifi w/o ethernet](https://howchoo.com/g/ndy1zte2yjn/how-to-set-up-wifi-on-your-raspberry-pi-without-ethernet)
 - [Mobile Hotspot (iOS](https://www.techcoil.com/blog/how-to-connect-your-raspberry-pi-to-your-iphone-wifi-hotspot-via-raspbian-stretch-lite/)
 
+* `ssh pi@{raspberry-ip-address}`
+
+* the first time you `ssh` onto pi the password is `raspberry`
+
+
 ## Connect with Github (Pi)
 
 - [generate ssh keys](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
