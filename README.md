@@ -4,14 +4,17 @@ Download latest raspian:
 
 * 434 MB, 1.136 MB, 2.230 MB versions
 
-Mac:
+Mac using UI:
 `sudo /Applications/balenaEtcher.app/Contents/MacOS/balenaEtcher`
 
+* After the OS is flashed onto SD card, reinsert the card before following next steps.
+
 ## ssh (Local – SD card)
+Create a file in the `boot` directory to enable ssh
+`touch /Volumes/boot/ssh`
 
-- [add ssh](https://howchoo.com/g/ote0ywmzywj/how-to-enable-ssh-on-raspbian-without-a-screen)
-
-## Setup Wifi (Local – SD card):
+With this setup, it is possible to `ssh` onto the raspberry pi using usb.
+## SSH via Wifi (Local – SD card):
 
 - [wifi w/o ethernet](https://howchoo.com/g/ndy1zte2yjn/how-to-set-up-wifi-on-your-raspberry-pi-without-ethernet)
 - [Mobile Hotspot (iOS](https://www.techcoil.com/blog/how-to-connect-your-raspberry-pi-to-your-iphone-wifi-hotspot-via-raspbian-stretch-lite/)
