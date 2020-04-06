@@ -1,4 +1,11 @@
 ## Flash with Etcher (Local – SD card)
+Download latest raspian:
+* https://www.raspberrypi.org/downloads/raspbian/
+
+* 434 MB, 1.136 MB, 2.230 MB versions
+
+Mac:
+`sudo /Applications/balenaEtcher.app/Contents/MacOS/balenaEtcher`
 
 ## ssh (Local – SD card)
 
