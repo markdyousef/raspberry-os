@@ -38,11 +38,7 @@ With this setup, it is possible to `ssh` onto the raspberry pi using usb.
 * [Install Python](https://gist.github.com/SeppPenner/6a5a30ebc8f79936fa136c524417761d)
 
 ## VSCode remote editing (Pi & Local)
-
-Remote to Local:
-- [rmate](https://github.com/textmate/rmate)
-- [install ruby](https://www.raspberrypi.org/documentation/linux/software/ruby.md)
-- [vscode setup](https://ladvien.com/visual-studio-code-raspberry-pi/)
+* use [Remote-SSH with vscode](https://code.visualstudio.com/blogs/2019/07/25/remote-ssh)
 
 Remote Web:
 *[wcode](https://github.com/fmsouza/wcode)
