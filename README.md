@@ -40,6 +40,13 @@ With this setup, it is possible to `ssh` onto the raspberry pi using usb.
 
 * [Install Python](https://gist.github.com/SeppPenner/6a5a30ebc8f79936fa136c524417761d)
 
+Set python 3.7 to primary version:
+
+* `sudo update-alternatives --config python`
+* Might show you an error: `update-alternatives: error: no alternatives for python3 `
+* `sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.7 1`
+
+
 ## VSCode remote editing (Pi & Local)
 * use [Remote-SSH with vscode](https://code.visualstudio.com/blogs/2019/07/25/remote-ssh)
 
